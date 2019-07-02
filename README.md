@@ -1,8 +1,9 @@
 # My-Game
 
-##Game Summary
 
-##Game Characters
+## Game Summary
+
+## Game Characters
 
 
-##User stories
+## User stories
